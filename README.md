@@ -9,7 +9,7 @@
 
 Acesse a pasta plugins do seu Mautic
 ```sh
-$ cd plugins
+$ cd .../seu-mautic/plugins
 ```
 
 Faça o clone do nosso repositório no Github
