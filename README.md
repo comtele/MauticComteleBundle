@@ -7,9 +7,13 @@
 
 ## Instalação
 
+Acesse a pasta plugins do seu Mautic
 ```sh
 $ cd plugins
+```
 
+Faça o clone do nosso repositório no Github
+```sh
 $ git clone https://github.com/thalesamaria/MauticComteleBundle.git
 ```
 
