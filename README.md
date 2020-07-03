@@ -64,3 +64,6 @@ php app/console mautic:plugins:reload
 - atendimento@comtele.com.br
 - 0800 266 8353
 - WhatsApp: (16) 98130-4898
+
+## Desenvolvido por Alan Mosko
+Github: https://github.com/moskoweb
