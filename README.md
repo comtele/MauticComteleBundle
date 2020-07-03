@@ -14,7 +14,7 @@ $ cd .../seu-mautic/plugins
 
 Faça o clone do nosso repositório no Github
 ```sh
-$ git clone https://github.com/thalesamaria/MauticComteleBundle.git
+$ git clone https://github.com/comtele/MauticComteleBundle.git
 ```
 
 Limpe o cache rodando os seguintes comandos na pasta raíz do seu Mautic:
